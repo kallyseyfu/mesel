@@ -1,0 +1,22 @@
+ጀምር
+    # Draw a simple flower
+    ስዕል_ጀምር
+    
+    # Draw the stem
+    ዙር (90)
+    ሂድ 100
+    
+    # Draw the petals
+    ዙር 90
+    እድግ 6
+        ሂድ 20
+        ዙር 60
+    ጨርስ
+    
+    # Draw the center
+    ዙር 30
+    እድግ 36
+        ሂድ 5
+        ዙር 10
+    ጨርስ
+ጨርስ 
