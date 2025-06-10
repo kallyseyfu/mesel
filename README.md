@@ -78,7 +78,7 @@
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/mesel.git
+git clone https://github.com/kallyseyfu/mesel.git
 cd mesel
 ```
 
